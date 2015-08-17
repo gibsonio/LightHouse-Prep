@@ -1,0 +1,159 @@
+ 
+html {
+  background: url("https://static.pexels.com/photos/205/food-dinner-lunch-meal.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+body {
+
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #F8F8FF;
+  text-shadow:  text-shadow: 
+    1px 0px 1px #ccc, 0px 1px 1px #eee, 
+    2px 1px 1px #ccc, 1px 2px 1px #eee,
+    3px 2px 1px #ccc, 2px 3px 1px #eee,
+    4px 3px 1px #ccc, 3px 4px 1px #eee,
+    5px 4px 1px #ccc, 4px 5px 1px #eee,
+    6px 5px 1px #ccc, 5px 6px 1px #eee,
+    7px 6px 1px #ccc;
+  text-align: center;
+}
+
+ .header {
+  background: #232323;
+  text-align:center;
+  position: fixed;
+  margin: -15px;
+  width: 100%;
+}
+
+#imagefirst {
+  
+  margin: 159px;
+  height: 304px;
+  width: 409px;
+  border: 1px solid #021a40;
+   border-radius: 50%;
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow: 3px 3px 5px 6px #ccc;
+ 
+}
+
+.images {
+  border: 1px solid #021a40;
+   border-radius: 50%;
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow: 3px 3px 5px 6px #ccc;
+  width: 160px;
+ 
+}
+
+.text {
+  
+font-family: Raleway;
+font-weight:900;
+text-shadow: 0 0 3px #000, -1px -1px #000, 1px 1px #000;
+  font-size: 30px;
+}
+
+ol{
+  margin-left: -32px;
+}
+  
+  li {
+    padding: 10px;
+  }
+  
+  .text.contents {
+margin: -110px 0px 150px 585px;
+border: 1px solid rgb(0, 128, 123);
+background-color: black;
+width: 238px;
+  }
+
+  a {
+text-decoration: none;
+color: #F8F8FF;
+transition: font-size 1s;
+  }
+
+  a:hover {
+  text-decoration: underline;
+  color: red;
+  font-size: larger;
+  }
+
+  .clicked {
+    color: red;
+    font-size: 10px;
+    font-family: cursive;
+  }
+
+.pics {
+  margin-top: 16px;
+  background-color: black;
+  border-radius: 50%;
+  color: aqua;
+}
+
+.purchased {
+  background-color: black;
+  border-radius: 41%;
+  font-weight: bold;
+  color: red;
+}
+
+label {
+  display: inline-block;
+}
+
+input {
+  display: inline-block;
+}
+
+
+
+.highlight {   
+font-family: Raleway;
+font-weight:900;
+text-shadow: 0 0 3px #000, -1px -1px #000, 1px 1px #000;
+font-size: 30px;
+color: red;
+font-style: italic;
+}
+
+#box1 {
+  display: inline-block;
+}
+
+#box2 {
+  display: inline-block;
+}
+
+#box3 {
+  display: inline-block;
+}
+
+#box4 {
+  display: inline-block;
+}
+
+#box5 {
+  display: inline-block;
+}
+
+#box6 {
+  display: inline-block;
+}
+
+#box7 {
+  display: inline-block;
+}
+
+#box8 {
+  display: inline-block;
+}
+ 
